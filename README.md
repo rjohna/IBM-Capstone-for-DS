@@ -8,3 +8,4 @@ If we can determine whether the first stage will land, we can determine the cost
 
 We will obtain launch data from SpaceX and open-source web sites, apply Exploratory Data Analysis and Interactive Visual Analytic methods to develop and refine Feature Sets and Launch Outcome Label Sets, and then predict launch outcomes using Predictive Analysis algorithms.
 
+Files S1 thru S8 address course assignments with Jupyter notebooks.  See the SpaceX Final Presentation for the results.
