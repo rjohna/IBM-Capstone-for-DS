@@ -6,6 +6,6 @@ In this project, we want to determine if we can predict whether the Falcon 9 fir
 
 If we can determine whether the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. 
 
-We will obtain launch data from SpaceX and open-source web sites, apply Exploratory Data Analysis and Interactive Visual Analytic methods to develop and refine Feature Sets and Launch Outcome Label Sets, and then predict launch outcomes using Predictive Analysis algorithms.
+We obtained launch data from SpaceX and open-source web sites, applied Exploratory Data Analysis and Interactive Visual Analytic methods to develop and refine Feature Sets and Launch Outcome Label Sets, and then predicted launch outcomes using Predictive Analysis algorithms.
 
-Files S1 thru S8 address course assignments with Jupyter notebooks.  See the SpaceX Final Presentation for the results.
+Files S1 thru S8 address course assignments with Jupyter notebooks.  The SpaceX Final Presentation provides results.
