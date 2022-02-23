@@ -17,7 +17,8 @@
 # TASK 4: Add a callback function to render the 
 #         success-payload-scatter-chart scatter plot
 
-
+#  The following python code was executed in the IBM Skill Networks Laboratory 
+#  with an IDE to deploy the Plotly Dash interactive pie charts and scatter charts.
 
 # Import required libraries
 import pandas as pd
